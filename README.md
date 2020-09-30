@@ -8,10 +8,10 @@ To run this application, you'll need to:
 
 * [Install Docker](https://www.docker.com/community-edition) (if you're on Mac or Windows)
 * [Install Node](https://nodejs.org/en/download/) (if you're on Mac or Windows)
-
 * Clone this repository:
-      $ git clone https://github.com/erickpac/toolbox-test
-      $ cd toolbox-test
+
+      $ git clone https://github.com/habitat-sh/sample-node-app.git
+      $ cd sample-node-app
 
 ### Run the app
 
