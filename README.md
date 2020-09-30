@@ -11,7 +11,7 @@ To run this application, you'll need to:
 * Clone this repository:
 
       $ git clone https://github.com/erickpac/toolbox-test
-      $ cd sample-node-app
+      $ cd toolbox-test
 
 ### Run the app
 
