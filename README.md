@@ -19,7 +19,7 @@ To run this application, you'll need to:
     ```
      docker-compose up
     ```
-2. The app will be runing on port 3000
+2. The app will be runing on port 9000
     ```
     http://localhost:9000/
     ```
