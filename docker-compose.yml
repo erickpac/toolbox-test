@@ -1,0 +1,14 @@
+version: "3.3"
+services:
+  backend:
+    build: "toolbox-backend/."
+    environment:
+      - APP_PORT=3000
+      - APP_HOST=0.0.0.0
+    ports:
+      - "3000:3000"
+
+  frontend:
+    build: "toolbox-frontend/."
+    ports:
+      - "9000:80"
